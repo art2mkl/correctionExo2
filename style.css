@@ -1,0 +1,7 @@
+:root{
+    --main-color : whitesmoke;  
+}
+
+body {   
+    background-color: var(--main-color);
+}
